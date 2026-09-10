@@ -241,3 +241,6 @@ This repository serves as the official landing page for HandBrake. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of HandBrake today!**
+
+---
+**Last updated:** 2026-09-10 22:08:49 UTC
