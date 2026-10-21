@@ -243,4 +243,4 @@ This repository serves as the official landing page for HandBrake. The software 
 **Get the most recent version of HandBrake today!**
 
 ---
-**Last updated:** 2026-10-21 05:35:56 UTC
+**Last updated:** 2026-10-21 10:55:40 UTC
